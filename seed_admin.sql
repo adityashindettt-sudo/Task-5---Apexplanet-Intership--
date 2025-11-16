@@ -1,0 +1,2 @@
+-- After importing schema, run this to create an admin (replace password hash as needed)
+-- Use PHP password_hash('Admin@123', PASSWORD_DEFAULT) and paste value below.
